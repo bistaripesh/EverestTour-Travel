@@ -1,0 +1,340 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper1 {
+    width: 1045px;
+    background-color: white;
+    margin: auto;
+    padding: 9px;
+}
+
+.head {
+    background-color: #4d1919;
+    margin: auto;
+}
+
+.logo {
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav-bar {
+    margin: auto;
+    width: 1110px;
+    padding-top: 10px;
+}
+
+.list ul li {
+    display: inline;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+.list ul {
+    line-height: 58px;
+}
+
+.list {
+    float: right;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.text {
+    text-align: center;
+    padding-top: 165px;
+    color: white;
+    font-size: 40px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.sub-text {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.contact {
+    padding: 15px;
+    padding-bottom: 0px;
+}
+
+.wrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+
+/* h5 {
+    margin: 0px;
+    padding: 0px;
+    padding-left: 5px;
+}
+
+.footer ul {
+    padding: 5px;
+    margin: 0px;
+}
+
+.footer ul li {
+    list-style: none;
+}
+
+.footer li {
+    list-style: none;
+}
+
+.location {
+    height: 100px;
+    text-align: left;
+    width: 170px;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+}
+
+.opening-hours {
+    height: 100px;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    width: 170px;
+    background-color: white;
+}
+
+.phone-no {
+    height: 100px;
+    display: inline-block;
+    background-color: white;
+    width: 170px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.social-media {
+    height: 100px;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+    width: 170px;
+} */
+
+.justify {
+    margin-top: 65px;
+}
+
+.justify table {
+    margin: auto;
+}
+
+.justify table td {
+    background-color: #ffe5cc;
+    font-size: 20px;
+    padding: 95px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+
+.footer {
+    background-color: #ff751a
+}
+
+.footer th {
+    color: white;
+    padding: 5px;
+}
+
+.footer td {
+    text-align: center;
+    color: white;
+    padding: 34px;
+    padding-top: 4px;
+}
+
+.main {
+    margin-top: 50px;
+}
+
+.image {
+    float: left;
+}
+
+.image img {
+    padding-left: 35px;
+    clear: right;
+}
+
+.image h4 {
+    padding: 0px;
+    margin: 0px;
+    padding-left: 15px;
+    font-size: 30px;
+}
+
+h4 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.travel-block {
+    float: right;
+}
+
+.travel-block table td {
+    /* background-color: #ff751a; */
+    padding: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.travel-block table td p {
+    font-size: 20px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.explain {
+    margin-top: 25px;
+    width: 280px;
+    display: inline-block;
+    text-align: center;
+}
+
+.explain h4 {
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.explain p {
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.adventures {
+    float: right;
+}
+
+.adventures td {
+    padding: 40;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    /* background-color: #ff751a; */
+}
+
+.glimpse {
+    margin-top: 40px;
+}
+
+.adventures td p {
+    margin: 0px;
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 30px;
+    padding: 0px;
+    padding-top: 15px;
+    margin: 0px;
+}
+
+.title p {
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.features {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.feature-img img {
+    display: inline-block;
+    border-radius: 50%;
+    padding: 75px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+
+.feature-img p {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.fetrs {
+    background-color: #ffe5cc;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h4 {
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading p {
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading table {
+    margin: auto;
+}
+
+.events {
+    margin-top: 40px;
+}
+
+.events th td {
+    margin: auto;
+}
+
+.description th {
+    color: #ff751a;
+    font-size: 20px;
+}
+
+.description td {
+    font-size: 18px;
+    text-align: center;
+}
+
+.description {
+    margin-bottom: 40px;
+}
+
+
+/* .line {
+    width: 100%;
+    color: white;
+    height: 10px;
+} */
+
+.legal {
+    text-align: center;
+    color: white;
+}
+
+.img img {
+    padding: 38px;
+    padding-top: 0px;
+}
