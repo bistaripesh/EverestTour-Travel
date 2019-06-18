@@ -240,6 +240,7 @@ h4 {
 }
 
 .adventures td p {
+    text-align: center;
     margin: 0px;
     font-size: 18px;
 }
